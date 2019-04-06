@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\AHMET KAVAK\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+C:\Users\1\Desktop\AHMET KAVAK\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+C:\Users\1\Desktop\AHMET KAVAK\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Form1.resources
+C:\Users\1\Desktop\AHMET KAVAK\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Properties.Resources.resources
+C:\Users\1\Desktop\AHMET KAVAK\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\AHMET KAVAK\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.exe
+C:\Users\1\Desktop\AHMET KAVAK\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.pdb
+C:\Users\toshiba\Desktop\görsel programlama\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.exe
+C:\Users\toshiba\Desktop\görsel programlama\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.pdb
+C:\Users\toshiba\Desktop\görsel programlama\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+C:\Users\toshiba\Desktop\görsel programlama\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+C:\Users\toshiba\Desktop\görsel programlama\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Form1.resources
+C:\Users\toshiba\Desktop\görsel programlama\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Properties.Resources.resources
+C:\Users\toshiba\Desktop\görsel programlama\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.csproj.GenerateResource.Cache
+C:\Users\toshiba\Desktop\random1\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.exe
+C:\Users\toshiba\Desktop\random1\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.pdb

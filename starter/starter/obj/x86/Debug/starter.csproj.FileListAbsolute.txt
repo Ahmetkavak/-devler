@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\AHMET KAVAK\starter\starter\bin\Debug\starter.exe
+C:\Users\1\Desktop\AHMET KAVAK\starter\starter\bin\Debug\starter.pdb
+C:\Users\1\Desktop\AHMET KAVAK\starter\starter\obj\x86\Debug\starter.Form1.resources
+C:\Users\1\Desktop\AHMET KAVAK\starter\starter\obj\x86\Debug\starter.Properties.Resources.resources
+C:\Users\1\Desktop\AHMET KAVAK\starter\starter\obj\x86\Debug\starter.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\AHMET KAVAK\starter\starter\obj\x86\Debug\starter.exe
+C:\Users\1\Desktop\AHMET KAVAK\starter\starter\obj\x86\Debug\starter.pdb
+C:\Users\1\Desktop\AHMET KAVAK\starter\starter\obj\x86\Debug\starter.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\görsel programlama\starter\starter\obj\x86\Debug\starter.exe
+C:\Users\toshiba\Desktop\görsel programlama\starter\starter\obj\x86\Debug\starter.pdb
+C:\Users\toshiba\Desktop\görsel programlama\starter\starter\bin\Debug\starter.exe
+C:\Users\toshiba\Desktop\görsel programlama\starter\starter\bin\Debug\starter.pdb
+C:\Users\toshiba\Desktop\görsel programlama\starter\starter\obj\x86\Debug\starter.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\görsel programlama\starter\starter\obj\x86\Debug\starter.Form1.resources
+C:\Users\toshiba\Desktop\görsel programlama\starter\starter\obj\x86\Debug\starter.Properties.Resources.resources
+C:\Users\toshiba\Desktop\görsel programlama\starter\starter\obj\x86\Debug\starter.csproj.GenerateResource.Cache
