@@ -1,0 +1,27 @@
+c:\users\eyupc\documents\visual studio 2012\Projects\Ödev\Ödev\bin\Debug\Ödev.exe.config
+c:\users\eyupc\documents\visual studio 2012\Projects\Ödev\Ödev\bin\Debug\Ödev.exe
+c:\users\eyupc\documents\visual studio 2012\Projects\Ödev\Ödev\bin\Debug\Ödev.pdb
+c:\users\eyupc\documents\visual studio 2012\Projects\Ödev\Ödev\obj\Debug\Ödev.Form1.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\Ödev\Ödev\obj\Debug\Ödev.Properties.Resources.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\Ödev\Ödev\obj\Debug\Ödev.csproj.GenerateResource.Cache
+c:\users\eyupc\documents\visual studio 2012\Projects\Ödev\Ödev\obj\Debug\Ödev.exe
+c:\users\eyupc\documents\visual studio 2012\Projects\Ödev\Ödev\obj\Debug\Ödev.pdb
+c:\users\eyupc\documents\visual studio 2012\Projects\Ödev\Ödev\obj\Debug\Ödev.csprojResolveAssemblyReference.cache
+C:\Users\dilek\Desktop\Ahmet_Beyin_Ödev_KLASÖRÜ_NEDEN_30_GB_xD\Ödev\Ödev\bin\Debug\Ödev.exe.config
+C:\Users\dilek\Desktop\Ahmet_Beyin_Ödev_KLASÖRÜ_NEDEN_30_GB_xD\Ödev\Ödev\obj\Debug\Ödev.exe
+C:\Users\dilek\Desktop\Ahmet_Beyin_Ödev_KLASÖRÜ_NEDEN_30_GB_xD\Ödev\Ödev\obj\Debug\Ödev.pdb
+C:\Users\dilek\Desktop\Ahmet_Beyin_Ödev_KLASÖRÜ_NEDEN_30_GB_xD\Ödev\Ödev\bin\Debug\Ödev.exe
+C:\Users\dilek\Desktop\Ahmet_Beyin_Ödev_KLASÖRÜ_NEDEN_30_GB_xD\Ödev\Ödev\bin\Debug\Ödev.pdb
+C:\Users\dilek\Desktop\Ahmet_Beyin_Ödev_KLASÖRÜ_NEDEN_30_GB_xD\Ödev\Ödev\obj\Debug\Ödev.csprojResolveAssemblyReference.cache
+C:\Users\dilek\Desktop\Ahmet_Beyin_Ödev_KLASÖRÜ_NEDEN_30_GB_xD\Ödev\Ödev\obj\Debug\Ödev.Form1.resources
+C:\Users\dilek\Desktop\Ahmet_Beyin_Ödev_KLASÖRÜ_NEDEN_30_GB_xD\Ödev\Ödev\obj\Debug\Ödev.Properties.Resources.resources
+C:\Users\dilek\Desktop\Ahmet_Beyin_Ödev_KLASÖRÜ_NEDEN_30_GB_xD\Ödev\Ödev\obj\Debug\Ödev.csproj.GenerateResource.Cache
+C:\Users\dilek\Desktop\ödevler\kayan buton\Ödev\bin\Debug\Ödev.exe.config
+C:\Users\dilek\Desktop\ödevler\kayan buton\Ödev\obj\Debug\Ödev.exe
+C:\Users\dilek\Desktop\ödevler\kayan buton\Ödev\obj\Debug\Ödev.pdb
+C:\Users\dilek\Desktop\ödevler\kayan buton\Ödev\bin\Debug\Ödev.exe
+C:\Users\dilek\Desktop\ödevler\kayan buton\Ödev\bin\Debug\Ödev.pdb
+C:\Users\dilek\Desktop\ödevler\kayan buton\Ödev\obj\Debug\Ödev.csprojResolveAssemblyReference.cache
+C:\Users\dilek\Desktop\ödevler\kayan buton\Ödev\obj\Debug\Ödev.Form1.resources
+C:\Users\dilek\Desktop\ödevler\kayan buton\Ödev\obj\Debug\Ödev.Properties.Resources.resources
+C:\Users\dilek\Desktop\ödevler\kayan buton\Ödev\obj\Debug\Ödev.csproj.GenerateResource.Cache
