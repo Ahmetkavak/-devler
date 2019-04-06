@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\AHMET KAVAK\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\1\Desktop\AHMET KAVAK\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\1\Desktop\AHMET KAVAK\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\1\Desktop\AHMET KAVAK\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\1\Desktop\AHMET KAVAK\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\AHMET KAVAK\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.exe
+C:\Users\1\Desktop\AHMET KAVAK\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.pdb
+C:\Users\toshiba\Desktop\görsel programlama\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.exe
+C:\Users\toshiba\Desktop\görsel programlama\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.pdb
+C:\Users\toshiba\Desktop\görsel programlama\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\toshiba\Desktop\görsel programlama\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\toshiba\Desktop\görsel programlama\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\toshiba\Desktop\görsel programlama\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\toshiba\Desktop\görsel programlama\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
